@@ -1,2 +1,3 @@
 # OpenDCC
-Additional information to OpenDCC-Zentralstation by W.Kufer
+
+This repository describes the assembly and commissioning of my [OpenDCC](https://www.opendcc.de/) control center.
